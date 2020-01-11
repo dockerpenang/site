@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DockerPenang</title>
+    <link>https://dockerpenang.github.io/authors/dockerpenang/</link>
+    <description>Recent content on DockerPenang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2020 12:05:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://dockerpenang.github.io/authors/dockerpenang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
