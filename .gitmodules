@@ -1,3 +1,7 @@
 [submodule "themes/chunkyposter"]
 	path = themes/chunkyposter
 	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
+[submodule "public"]
+	path = public
+	url = https://dockerpenang:271396355cd43ed7b3ad25f289e112ebc3cc4e8f@github.com/dockerpenang/dockerpenang.github.io.git
+	branch = master
